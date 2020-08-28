@@ -8,6 +8,6 @@ Hello! I'm Stephanie and I am from Warrenton, Virginia. My academic interests in
 # This is an index of my work
 [Practice 1: A Path Of A Running Man](practice1.md)
 
-[Practice 2: A More Complicated Graph](practice2.md)
+[Practice 2: A Person's Path Between Homes](practice2.md)
 
 [Practice 3: Path Of A Traveling Salesman](practice3.md)
