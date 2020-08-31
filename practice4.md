@@ -1,1 +1,2 @@
-![](diff_per_fem.pdf) 
+![](dif_tot_pop.pdf)
+
