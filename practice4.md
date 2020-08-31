@@ -1,2 +1,4 @@
-![](dif_tot_pop.pdf)
+![](dif_tot_pop.png)
+
+
 
