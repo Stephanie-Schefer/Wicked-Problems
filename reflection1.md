@@ -1,6 +1,6 @@
 # Search Optimization on Etsy
 
-[]!()
+![](etsy_logo.png)
 
 Etsy, a platform crafters use to sell their handmade goods, provides an interesting investigation into how online retailers use search optimization to enhance the user experience. Unlike, other e-commerce sites however, Etsy is a two-sided marketplace, meaning that buyers are searching for interesting and unique goods while sellers are using the platform Etsy provides to reach more buyers. Due to the optimized results being a manipulated version of an organic search, there are some ethical considerations as to which party is being hurt, either the buyer or the seller, when search results are changed.
 
@@ -10,6 +10,7 @@ The high-level knowledge obtained from recording clicks is an important factor i
 
 Manipulating search results unfortunately has some flaws. If a customer searches for an outdoor pillow, pillows with fabrics not specifically designed for outdoor use can appear if a pattern was discovered from previous customers. This is detrimental for sellers as well, because if customers mistakenly purchase a product that does not accurately fit their needs, it reflects poorly on the seller’s business. Despite mistakes happening, optimization models aim to help however. The machine learning can save time for buyers, and time has a great value associated with it. Data scientists are always searching for ways of improving the algorithm the learn more about their customers in order to help. 
 
+![](seo.jpg)
 
 # Works Cited
 
