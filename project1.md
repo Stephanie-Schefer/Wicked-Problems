@@ -21,6 +21,6 @@ The following plot provides a graphical representation of population data from t
 
 ![](pop_change_by_state.png)
 
-###Stretch Goal 1
-The following plot provides the same data on state populations, but includes 9 quantiles in a 3 by 3 grid layout to make the data easier to interpret. The plots using 4 quantiles were slightly overcrowded just from having about 12 states or territories on each. Now with 9 quantiles, only 6 states are on each plot. 
+### Stretch Goal 1
+The following plot provides the same data on state populations, but includes 9 quantiles in a 3 by 3 grid layout to make the data easier to interpret. Like before, the states and territories represented on each plot are grouped based on their population so similar populations can be easily compared. The plots using 4 quantiles were slightly overcrowded from having about 12 states or territories on each. Now with 9 quantiles, there are only about 6 states are on each plot.
 ![](pop_change_9_quan.png)
