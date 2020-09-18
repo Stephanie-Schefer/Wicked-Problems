@@ -20,4 +20,7 @@ The following two plots graphically represent the total number of applications r
 The following plot provides a graphical representation of population data from the United States Census Bureau. All 50 states as well as the District of Columbia and Puerto Rico are represented over the census from 2000 to 2014. Quantiles were used to split the data into 4 sections based on population size. As a result the population values were able to spread out along the y-axis, making the graph more legible. For most areas, the population grew every year when the census data was collected, however there were a few exceptions. New York and New Hampshire did not have a large populaiton gain over the 14 year span. New York only grew by about 770,00 people while New Hampshire only grew by 91,027 people. While this may seem like a lot of people, the line representing these states on the graph is very flat or horizontal showing that in proportion to the overall population of the state, it did not grow by a lot. Puerto Rico decreased in populaiton size over the 14 year span by about 260,000 people. 
 
 ![](pop_change_by_state.png)
+
+###Stretch Goal 1
+The following plot provides the same data on state populations, but includes 9 quantiles in a 3 by 3 grid layout to make the data easier to interpret. The plots using 4 quantiles were slightly overcrowded just from having about 12 states or territories on each. Now with 9 quantiles, only 6 states are on each plot. 
 ![](pop_change_9_quan.png)
