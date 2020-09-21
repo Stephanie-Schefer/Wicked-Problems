@@ -17,3 +17,5 @@ Hello! I'm Stephanie and I am from Warrenton, Virginia. My academic interests in
 [Project 1: Data Management](project1.md)
 
 [Data Science Reflection](reflection1.md)
+
+[Project 2: Data Management Fundamentals](project2.md)
