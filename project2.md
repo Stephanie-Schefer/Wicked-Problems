@@ -21,3 +21,5 @@ This plot is based on data on the number of housing units in each state over the
 
 # Part 2: Using the Stock Market to Describe, Analyze and Predict
 
+![](my_stock.png)
+![](summary.lulu.pdf)
