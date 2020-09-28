@@ -13,6 +13,7 @@ This plot shows the average population change, so each state or region has a con
 
 ![](avg_pop_change_2010_14.png)
 
+### Stretch Goal
 This plot is based on data on the number of housing units in each state over the 4 year period. The first plot is the actual housing unit change while the second is the average housing unit change. Again 9 quantiles were used based on the unit change and average unit change proportionately. One can compare the previous two plots to see how populaiton changed in regards to the sheer number of people versus the number of household units. This will give a better picture of whether changes were due to families moving or births and deaths. 
 
 ![](housing_unit_change.png)
