@@ -1,0 +1,36 @@
+
+quantmod object:   lm1601236522.1372 	Build date:  2020-09-27 15:55:22 
+
+Model Specified: 
+     Next(Cl(LULU)) ~ Cl(AEO) + Cl(GPS) + Cl(EXPR) + Cl(ANF) + Cl(URBN) 
+
+Model Target:  Next.Cl.LULU 		 Product:  LULU 
+Model Inputs:  Cl.AEO, Cl.GPS, Cl.EXPR, Cl.ANF, Cl.URBN 
+
+Fitted Model: 
+
+	Modelling procedure:  lm 
+	Training window:  64  observations from  2015-08-28 to 2015-11-27
+
+Call:
+lm(formula = quantmod@model.formula, data = training.data)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-5.2877 -1.8047 -0.1509  1.9336  5.0072 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -29.8830     9.5178  -3.140  0.00266 ** 
+Cl.AEO        4.2207     0.8945   4.718 1.54e-05 ***
+Cl.GPS        0.5918     0.2075   2.853  0.00600 ** 
+Cl.EXPR       1.3088     0.5761   2.272  0.02683 *  
+Cl.ANF       -0.8622     0.2695  -3.200  0.00223 ** 
+Cl.URBN      -0.2755     0.2055  -1.341  0.18519    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.642 on 58 degrees of freedom
+Multiple R-squared:  0.7364,	Adjusted R-squared:  0.7137 
+F-statistic: 32.41 on 5 and 58 DF,  p-value: 1.291e-15
+
