@@ -1,4 +1,6 @@
 # Project 2: Data Management Fundamentals
+
+# Part 1: Independently Accessing an API and Creating your Own Plots
 ## Data is from the American Community Survey 5-Year Data from the years 2010 to 2014
 
 ### The following graphs show state populaitons as well as Washington DC and Puerto Rico collected from survey data from 2010 to 2014. 
@@ -16,3 +18,6 @@ This plot is based on data on the number of housing units in each state over the
 ![](housing_unit_change.png)
 
 ![](avg_housing_unit_change.png)
+
+# Part 2: Using the Stock Market to Describe, Analyze and Predict
+
