@@ -1,6 +1,6 @@
 # Data Science Leads Sustainability Efforts For Businesses
 
-![]()
+![](ups.jpg)
 
 Consumers like to know their money is going to well-rounded businesses whose values align with their own personal views. Because of this, competition in the modern workplace has led to a greater rise in companies demonstrating their ethical practices to customers in order to win over their business, as businesses have a corporate social responsibility to uphold. In terms of data science, there is now a need for sustainability analytics to be able to quantify the benefits of these business practices to stockholders and consumers as well as to internal members of the business to show the financial impacts of the companies’ social responsibility. 
 
