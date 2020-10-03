@@ -23,4 +23,6 @@ This plot is based on data on the number of housing units in each state over the
 # Part 2: Using the Stock Market to Describe, Analyze and Predict
 
 ![](matrix_clothing_stock_predict_lulu.png)
-![](summary.lulu.pdf)
+
+<a href="Stephanie-Schefer.github.io/master/summary_lulu_prediction_model.pdf" target="_blank">PDF.</a>
+
