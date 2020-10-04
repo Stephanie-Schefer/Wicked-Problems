@@ -26,6 +26,8 @@ The following matrix represents the relationship between 6 clothing brank stocks
 
 ![](matrix_clothing_stock_predict_lulu.png)
 
+The following plot shows a the relationship of one stock to the value of all the other stock values over the training period, each in separate grids. In general, there is a negative coorelation between Lululemon stock price and the other 5 predictor stocks. This is seen in the first "column" of the matrix. Therefore, if Lululemon stock increases, then the predictor stocks decreased. Another generalization that can be helpful in analyzing the stock data is that the 5 predictor stocks have a positive coorelaiton between them, meaning that if one predictor stock increased, the other increased as well and vice versa if the stocks decrease. 
+
 The following summary of the model shows statistical data about the strenght of the model that was created. The r-squared value is about .84 which can be interpreted as the model being able to accurately predict about 84% of the time. Because this value is high, the inputs of the selected stocks are effective predictors to estimate Lululemon's stock. 
 
 #### Summary
