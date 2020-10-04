@@ -36,5 +36,5 @@ The following summary of the model shows statistical data about the strenght of 
 
 # Part 3: Using tidyquant Analyze Stock Performance
 
-![](portfolio_return.png)
+![](portfolio_returns.png)
 ![](portfolio_growth.png)
