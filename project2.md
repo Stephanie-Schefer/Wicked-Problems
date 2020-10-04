@@ -33,3 +33,7 @@ The following summary of the model shows statistical data about the strenght of 
 #### Summary
 
 ![](summary.lulu.png)
+
+# Part 3: Using tidyquant Analyze Stock Performance
+
+
