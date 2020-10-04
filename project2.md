@@ -36,5 +36,9 @@ The following summary of the model shows statistical data about the strenght of 
 
 # Part 3: Using tidyquant Analyze Stock Performance
 
+The following candlestick plot shows the returns from investing $10,000 across the same 6 stocks selected in part 2 and allocating the money to try to maximize profit. The allocation I used was to invest all $10,000 into Lululemon because this stock performed the best during the time period used of 09/28/2018 to 09/29/2020. The other 5 stocks decreased in overall value from the beginning of the period to the end. This reflects the conclusion found in part 2 when predicting Lululemon stock value based on the 5 predictor stocks that if the 5 stocks decrease in value, Lululemon tends to increase in value. 
+
 ![](portfolio_returns.png)
+
+This plot shows the change in value of the portfolio in terms of the dollar amount across the time period. 
 ![](portfolio_growth.png)
