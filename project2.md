@@ -27,40 +27,7 @@ The following matrix represents the relationship between 6 clothing brank stocks
 ![](matrix_clothing_stock_predict_lulu.png)
 
 The following summary of the model shows statistical data about the strenght of the model that was created. The r-squared value is about .84 which can be interpreted as the model being able to accurately predict about 84% of the time. Because this value is high, the inputs of the selected stocks are effective predictors to estimate Lululemon's stock. 
-###### Summary
 
-quantmod object:   lm1601768605.40054 	Build date:  2020-10-03 19:43:25 
+#### Summary
 
-Model Specified: 
-     Next(Cl(LULU)) ~ Cl(AEO) + Cl(GPS) + Cl(EXPR) + Cl(ANF) + Cl(URBN) 
-
-Model Target:  Next.Cl.LULU 		 Product:  LULU 
-Model Inputs:  Cl.AEO, Cl.GPS, Cl.EXPR, Cl.ANF, Cl.URBN 
-
-Fitted Model: 
-
-	Modelling procedure:  lm 
-	Training window:  63  observations from  2020-06-29 to 2020-09-25
-
-Call:
-lm(formula = quantmod@model.formula, data = training.data)
-
-Residuals:
-    Min      1Q  Median      3Q     Max 
--17.866  -6.555  -2.061   4.715  33.035 
-
-Coefficients:
-            Estimate Std. Error t value Pr(>|t|)    
-(Intercept) 233.7576    28.9816   8.066 5.35e-11 ***
-Cl.AEO        0.7936     3.5792   0.222    0.825    
-Cl.GPS       18.3351     2.4124   7.600 3.18e-10 ***
-Cl.EXPR      13.1911    11.1578   1.182    0.242    
-Cl.ANF      -17.5257     2.8165  -6.222 6.20e-08 ***
-Cl.URBN       0.3773     1.3997   0.270    0.788    
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-Residual standard error: 10.94 on 57 degrees of freedom
-Multiple R-squared:  0.8387,	Adjusted R-squared:  0.8245 
-F-statistic: 59.26 on 5 and 57 DF,  p-value: < 2.2e-16
-
+![](summary.lulu.png)
