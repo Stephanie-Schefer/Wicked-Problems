@@ -1,4 +1,4 @@
-#Data Science Applications for Hiring
+# Data Science Applications for Hiring
 
 Companies are in a constant state of competition, and are always seeking to get ahead of their competitors by using data more effectively to benefit their business including during the recruitment process. Using technology to optimize the recruitment process is not simply about getting information about the hiring company out to more candidates, as this does not guarantee that the company would end up with a good hire. Instead, using data science for recruitment is focused on improving the “candidate experience,” so they feel valued through the process. Part of this is taking action and making decisions based on data analytics rather than a recruiter’s own personal bias or a hunch as to which is the right candidate. There is thus a demand for “talent analytics” and “people science” so hiring agencies can quantify traits about an individual to see if they would be a great candidate for the job.
 
