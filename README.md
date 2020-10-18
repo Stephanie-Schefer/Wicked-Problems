@@ -20,7 +20,8 @@ Hello! I'm Stephanie and I am from Warrenton, Virginia. My academic interests in
 
 [Project 2: Data Management Fundamentals](project2.md)
 
-[Data Science Reflection 2:Sustainability/UPS](reflection2.md)
+[Data Science Reflection 2 : Sustainability/UPS](reflection2.md)
 
-[Data Science Reflection 3:Job Hiring](reflection3.md)
+[Data Science Reflection 3 : Job Hiring](reflection3.md)
 
+[Project 3: Projecting, Plotting, and Labelling Administrative Subdivisions](project3.md)
