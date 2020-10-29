@@ -25,3 +25,7 @@ Hello! I'm Stephanie and I am from Warrenton, Virginia. My academic interests in
 [Data Science Reflection 3 : Job Hiring](reflection3.md)
 
 [Project 3: Projecting, Plotting, and Labelling Administrative Subdivisions](project3.md)
+
+[Data Science Reflection 4 : The Social Dilemma](reflection4.md)
+
+[PROJECTS](projects.md)
