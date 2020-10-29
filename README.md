@@ -6,30 +6,9 @@ Hello! I'm Stephanie and I am from Warrenton, Virginia. My academic interests in
 
 
 # This is an index of my work
-[Practice 1: A Path Of A Running Man](practice1.md)
 
-[Practice 2: A Person's Path Between Homes](practice2.md)
+[Practice](practice.md)
 
-[Practice 3: Path Of A Traveling Salesman](practice3.md)
+[Projects](projects.md)
 
-[Practice 4: Data Management Basics](practice4.md)
-
-[Project 1: Data Management](project1.md)
-
-[Data Science Reflection 1: Etsy](reflection1.md)
-
-[Project 2: Data Management Fundamentals](project2.md)
-
-[Data Science Reflection 2 : Sustainability/UPS](reflection2.md)
-
-[Data Science Reflection 3 : Job Hiring](reflection3.md)
-
-[Project 3: Projecting, Plotting, and Labelling Administrative Subdivisions](project3.md)
-
-[Data Science Reflection 4 : The Social Dilemma](reflection4.md)
-
-[PRACTICE](practice.md)
-
-[PROJECTS](projects.md)
-
-[DATA SCIENCE REFLECTIONS](reflections.md)
+[Data Science Reflections](reflections.md)
