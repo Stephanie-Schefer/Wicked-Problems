@@ -28,4 +28,6 @@ Hello! I'm Stephanie and I am from Warrenton, Virginia. My academic interests in
 
 [Data Science Reflection 4 : The Social Dilemma](reflection4.md)
 
+[PRACTICE](practice.md)
 [PROJECTS](projects.md)
+[DATA SCIENCE REFLECTIONS](reflections.md)
