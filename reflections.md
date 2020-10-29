@@ -1,4 +1,4 @@
-[Data Science Reflection 1 : Etsy](reflection1.md
+[Data Science Reflection 1 : Etsy](reflection1.md)
 
 [Data Science Reflection 2 : Sustainability/UPS](reflection2.md)
 
