@@ -27,4 +27,4 @@ This rotating plot once again used the log of population count to show the distr
 
 This figure presents a spacial map of Costa Rica Provinces, annotated with the name and population density of each province in persons per square kilometer. The bar plot shows the population within each province as well as the percentage of the populaiton the count is. 
 
-![](costa_rica_in_2019)
+![](costa_rica_in_2019.png)
