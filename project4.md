@@ -22,3 +22,7 @@ This plot combines the outline boarders from adm1 and adm2. The population count
 This rotating plot once again used the log of population count to show the distribuiton of the population among the cantons. Once again, the cantons are color coded by population size. In addition, the cantons with the highest population counts appear to be taller and the less populated cantons appear shorter. 
 
 ![](cr_pop_gif.gif)
+
+# Creating a Geometric Bar Plot with your Simple Feature object
+
+![](costa_rica_in_2019.png)
