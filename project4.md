@@ -13,3 +13,4 @@ This plot resembles the challege question by showing the populaiton distribution
 
 ## Individual Stretch Goal 1
 
+![](cr_log_pop_adm2_adm1.png)
