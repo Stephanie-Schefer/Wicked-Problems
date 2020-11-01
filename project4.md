@@ -13,6 +13,6 @@ This plot resembles the challege question by showing the populaiton distribution
 
 ## Individual Stretch Goal 1
 
-This plot combines the outline boarders from adm1 and adm2. The population count data still fills the cantons to show the distribution of the populaiton among the country, but now the log of the population count was used to simplify the scale numbers. The population distribution is now represented by three colors: blue is the least populated, yellow is the mildly populated and red is heavily populated.
+This plot combines the outline boarders from adm1 and adm2. The population count data still fills the cantons to show the distribution of the populaiton among the country, but now the log of the population count was used to simplify the scale numbers. The population distribution is now represented by three colors: blue is the least populated, yellow is the mildly populated and red is heavily populated. Having more colors makes it easier to compare the population of different cantons because there is more distinction between different population counts versus them all being the same color. 
 
 ![](cr_log_pop_adm2_adm1.png)
