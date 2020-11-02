@@ -35,6 +35,6 @@ This plot shows the spacial map of Costa Rica's cantons, annotated with the name
 
 ![](costa_rica2_in_2019.png)
 
-The following geometric bar plot shows the population total for each province of Costa Rica. Each province is further broken down to show the populaiton distribution between each canton within the province. The wider the space, the more populaiton lives within the geographic area. 
+The following geometric bar plot shows the population totals for each province of Costa Rica. Each province is further broken down to show the populaiton distribution between each canton within the province. The wider the space, the more populaiton lives within the geographic area. 
 
 ![](cr_adm2_bp.png)
