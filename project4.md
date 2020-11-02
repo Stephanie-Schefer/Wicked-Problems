@@ -35,4 +35,4 @@ This figure presents a spacial map of Costa Rica Provinces, annotated with the n
 
 The following geometric bar plot shows the population total for each province of Costa Rica as well as the breakdown of the population 
 
-![](lbr_adm2_bp.png)
+![](cr_adm2_bp.png)
