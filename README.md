@@ -12,3 +12,5 @@ Hello! I'm Stephanie and I am from Warrenton, Virginia. My academic interests in
 [Projects](projects.md)
 
 [Data Science Reflections](reflections.md)
+
+
