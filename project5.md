@@ -8,7 +8,7 @@ This plot shows layer 12, which represents the slope or steepness of land across
 This plot shows layer 8 which represents dts_160 : tree cover, flooded, fresh or brakish water. Across the country, values range from 0 to 100.
 ![](plot_8.png)
 
-This plot shows layer 10 which represents bare areas. The most bare areas occurs around the perimeter of the country.  
+This plot shows layer 10 which represents bare areas. The most baren areas occurs around the perimeter of the country.  
 ![](plot_10.png)
 
 
