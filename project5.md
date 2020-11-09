@@ -12,3 +12,10 @@ This plot shows layer 10 which represents bare areas. The most baren areas occur
 ![](plot_10.png)
 
 
+![](count_pop.png)
+
+![](pop_density.png)
+
+![](density_population.png)
+
+![](density_ntl.png)
