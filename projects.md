@@ -5,3 +5,5 @@
 [Project 3 : Projecting, Plotting, and Labelling Administrative Subdivisions](project3.md)
 
 [Project 4 : Projecting, Plotting and Labelling Administrative Subdivisions Continued](project4.md)
+
+[Project 5: Acquiring, Modifying and Describing the Data] (project5.md)
