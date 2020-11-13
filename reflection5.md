@@ -14,3 +14,5 @@ The world of data science is not just black and white, there are a lot of gray a
 ## Works Cited
 
 Geoff West in Scale, 2018
+
+The Social Dilemma. Directed by Jeff Orlowski, Exposure Labs, 2020. Netflix. www.netflix.com/title/81254224
