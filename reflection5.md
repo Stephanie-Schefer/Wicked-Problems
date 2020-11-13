@@ -11,3 +11,6 @@ Much of the improvement in the ability to describe, analyze, and predict how hum
 The world of data science is not just black and white, there are a lot of gray areas with regards to ethical behavior. It all boils down to the intentions as well as consequences of how data science is being used. There is plenty of room for data science in our society. It is a quickly growing and a relatively new field. Realigning this science onto a path that will benefit society rather than harm it is essential for this generation of data scientists, before the damage becomes irreversible.
 
 
+## Works Cited
+
+Geoff West in Scale, 2018
