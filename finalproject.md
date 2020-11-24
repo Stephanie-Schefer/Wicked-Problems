@@ -13,6 +13,9 @@ This image is a probability model based on the population data. It displays wher
 ![](gcaste_pipo.png)
 
 
+This plot reflects the urban area polygons and thier density. 
+
+![](urban_areas_polygons_density.png)
 
 
 describes the de facto boundaries of human settlements and urbanization throughout your selected
