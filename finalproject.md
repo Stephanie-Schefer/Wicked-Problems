@@ -44,12 +44,8 @@ Guanacaste has 392,000 persons living within 18 distinctly defined human settlem
 
 ## Rendering Topography
 
+This plot shows a 3D map of Guanacaste's topographical features as well as the road network, urbanized areas, and airport locations. 
 
 ![](final_liberia_plot)
 
-The topography has appeared to impact development of urban areas in that there are lots of mountain ranges and volcanoes that cover the area. This topography is not good for development, so naturally, the areas of development are in the valleys. 
-
-How has topography appeared to have impacted the development of urban areas?
-How has topography appeared to have impacted the development of transportation facilities?
-How has topography appeared to have impacted the location of health care facilities?
-Has producing your three-dimensional map resulted in an interpretion that is different from your previous analysis?
+The topography has appeared to impact development of urban areas in that there are lots of mountain ranges and volcanoes that cover the area. This topography is not good for development, so naturally, the areas of development are in the valleys. This same principal applies to transportation facilites as well because many of the road networks enclose a mountain and go around the base of it. That is logical, as this makes transportation take longer, but much easier to develop and drive over. The airports within Guanacaste appear on the flatter and open portions of land, where planes will have a straight shot to get to and not have to worry about mountainous obstructions. The 3D plot did not cause me to have any interpretations that were different, only complement the conclusions I made before. 
