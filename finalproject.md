@@ -44,7 +44,7 @@ Guanacaste has 392,000 persons living within 18 distinctly defined human settlem
 
 ## Rendering Topography
 
-This plot shows a 3D map of Guanacaste's topographical features as well as the road network, urbanized areas, and airport locations. 
+This plot shows a 3D map of Guanacaste's topographical features as well as the road network, urbanized areas, and airport locations. The most populated city, Liberia, is labeled below.
 
 ![](final_liberia_plot)
 
