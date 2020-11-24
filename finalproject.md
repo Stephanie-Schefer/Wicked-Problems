@@ -12,7 +12,7 @@ This image is a probability model based on the population data. It displays wher
 
 ![](gcaste_pipo.png)
 
-This plot shows the population density of guanacaste, as well as the polygons of the urbanized areas.
+This plot shows the population density of guanacaste, as well as the unfiltered polygons of the urbanized areas.
 ![](density_image)
 
 This plot reflects the urban area polygons and thier density. 
@@ -28,4 +28,6 @@ The following shows a plot of the defacto urban areas and human settlements. Eac
 
 ## Adding transportation facilities & health care services
 
+This plot shows the urbanized areas throughout Guanacaste as well as the road network and airport locations throughout. Like before, the populaiton and density of the urbanized area are represented by the size and color of the dot. This time, the scale of density ranges in color from yellow to orange becasue I used small red dots to represent the locations of airports, a sign of development. The primary road system appears to run 
 
+![](airports_throughout.png)
