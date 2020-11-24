@@ -2,6 +2,10 @@
 
 ## De facto description of human settlements and urban areas
 
+For the final project, I investigated the population density and urbanization withing Guanacaste, one of Costa Rica's ADM 1 subdivisions.
+
+The following plot shows the estimated populaiton within Guanacaste as a raster image. The areas that are most populated appear in green while the least populated remain white. The areas with color are in small pinpointed areas, reflecting the idea that Guanacaste is very sparcely populated, with small cities sprinkled throughout.
+
 ![](gcaste_pop.png)
 
 
