@@ -21,4 +21,10 @@ The following shows a plot of the defacto urban areas and human settlements. Eac
 
 ![](urbanized_areas_throughout_guan.png)
 
-describes the de facto boundaries of human settlements and urbanization throughout your selected
+
+# Assessibility 2
+
+## Adding transportation facilities & health care services
+
+
+
