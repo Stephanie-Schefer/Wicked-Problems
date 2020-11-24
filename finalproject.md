@@ -1,6 +1,6 @@
-#Assessibility 1
+# Assessibility 1
 
-##De facto description of human settlements and urban areas
+## De facto description of human settlements and urban areas
 
 ![](gcaste_pop.png)
 
