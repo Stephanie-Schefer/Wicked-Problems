@@ -12,6 +12,8 @@ This image is a probability model based on the population data. It displays wher
 
 ![](gcaste_pipo.png)
 
+This plot shows the population density of guanacaste, as well as the polygons of the urbanized areas.
+![](density_image)
 
 This plot reflects the urban area polygons and thier density. 
 
@@ -26,5 +28,4 @@ The following shows a plot of the defacto urban areas and human settlements. Eac
 
 ## Adding transportation facilities & health care services
 
-![](density_image)
 
