@@ -17,5 +17,8 @@ This plot reflects the urban area polygons and thier density.
 
 ![](urban_areas_polygons_density.png)
 
+The following shows a plot of the defacto urban areas and human settlements. Each urban area is described in terms of its population and density, two ways to describe the urbanization within an area. Areas with a greater population have a larger dot compared to urban areas with a smaller population. Areas that have a higher density appear a darker red color while those urbanized areas with a smaller density are yellow.  
+
+![](urbanized_areas_throughout_guan.png)
 
 describes the de facto boundaries of human settlements and urbanization throughout your selected
