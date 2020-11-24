@@ -45,5 +45,7 @@ Guanacaste has 392,000 persons living within 18 distinctly defined human settlem
 ## 
 
 
+![](final_plot)
+
 
 
