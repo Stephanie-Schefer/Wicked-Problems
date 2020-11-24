@@ -2,7 +2,7 @@
 
 ##De facto description of human settlements and urban areas
 
-![](gcaste_pop.png)
+[]!(gcaste_pop.png)
 
 
 
