@@ -26,5 +26,5 @@ The following shows a plot of the defacto urban areas and human settlements. Eac
 
 ## Adding transportation facilities & health care services
 
-
+![](density_image)
 
