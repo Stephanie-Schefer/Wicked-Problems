@@ -8,6 +8,10 @@ The following plot shows the estimated populaiton within Guanacaste as a raster 
 
 ![](gcaste_pop.png)
 
+This image is a probability model based on the population data. It displays where 392,000 people live geospacially thorughout Guanacaste's 2,541,487 gridcells.
+
+![](gcaste_pipo.png)
+
 
 
 
